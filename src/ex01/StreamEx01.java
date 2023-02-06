@@ -14,7 +14,8 @@ public class StreamEx01 {
         try{
             int inData=in.read();   // A= 65 (아스키코드) 0=48
             //AB : 65 (하나만 보낼 수 밖에 없다.)
-            System.out.println(inData);
+//            System.out.println(inData);
+            System.out.println((char)inData);
         }catch (Exception e){
 
         }
