@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5287f6b1-47a6-407e-8570-1d0a1342845c" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/ex01/StreamEx01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex01/StreamEx01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex01/StreamEx02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,6 +19,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2LMdRF0kiNEMuXpJScai81QCTxx" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -35,6 +39,11 @@
     "nodejs_package_manager_path": "npm"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="ex01" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -43,7 +52,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1675684875385</updated>
-      <workItem from="1675684876626" duration="310000" />
+      <workItem from="1675684876626" duration="539000" />
     </task>
     <servers />
   </component>
