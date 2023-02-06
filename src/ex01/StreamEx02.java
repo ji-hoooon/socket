@@ -9,7 +9,7 @@ import java.io.InputStreamReader;
 public class StreamEx02 {
     public static void main(String[] args) {
         InputStream in =  System.in;
-        InputStreamReader reader =  new InputStreamReader(in);
+        InputStreamReader reader =  new InputStreamReader(in);  //정수를 char로 인코딩하는 객체 (아스키코드를 기준으로)
         //InputStreamReader in =  new InputStreamReader(System.in);
         //메서드 실행시, 사용자의 키보드 입력을 기다림
 
