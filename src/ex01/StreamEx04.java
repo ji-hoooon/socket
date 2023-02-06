@@ -13,13 +13,18 @@ public class StreamEx04 {
 
         //스트림이기 때문에 바이트하나만을 쓸 수 있다.
         OutputStream out = System.out;  //모니터에 연결된 스트림
-//        OutputStreamWriter ow = new OutputStreamWriter(out);
-//        BufferedWriter bw = new BufferedWriter(ow);
-//
+        OutputStreamWriter ow = new OutputStreamWriter(out);
+        BufferedWriter bw = new BufferedWriter(ow);
+        //버퍼를 이용해 모니터에 쓰기
+
         try {
-            out.write(65);
-            out.flush();    //flush 해야 전송이 된다.
+//            out.write(65);
+//            out.flush();    //flush 해야 전송이 된다.
             //단점 : 한자만 보낼 수 있다.
+
+            //버퍼 적용
+            bw.write("안녕하세요");
+            bw.flush();
         }catch (Exception e){
 
         }
