@@ -2,8 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5287f6b1-47a6-407e-8570-1d0a1342845c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/hdx/client/MyClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hdx/server/MyServer.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/ex01/StreamEx04.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex01/StreamEx04.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oneway/client/MyClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oneway/client/MyClient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oneway/server/MyServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oneway/server/MyServer.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,7 +56,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1675684875385</updated>
-      <workItem from="1675684876626" duration="1482000" />
+      <workItem from="1675684876626" duration="6428000" />
     </task>
     <servers />
   </component>

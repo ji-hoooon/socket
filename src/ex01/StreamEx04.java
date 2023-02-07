@@ -6,6 +6,7 @@ import java.io.*;
  * Socket - 소켓으로 데이터가 흘러가야 하는 길 (Byte Stream)
  */
 public class StreamEx04 {
+    //버퍼에 소켓을 연결하면 어떤 프로그램에도 모니터로 출력이 가능하다.
     public static void main(String[] args)  {
         //FileReader r= new FileReader();
         //BufferedReader, BufferedWriter
@@ -16,6 +17,8 @@ public class StreamEx04 {
         OutputStreamWriter ow = new OutputStreamWriter(out);
         BufferedWriter bw = new BufferedWriter(ow);
         //버퍼를 이용해 모니터에 쓰기
+
+
 
         try {
 //            out.write(65);
