@@ -32,7 +32,7 @@ public class MyServer {
             response.println("<html><h1>Hello</h1></html>");
 
         }else if(msg.equals("xml")){
-            response.println("<xml>");
+            response.println("<xml>hello</xml>");
         }else{
             response.println("잘못된 요청을 했습니다.");
         }
