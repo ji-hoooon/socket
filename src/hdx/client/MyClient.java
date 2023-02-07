@@ -14,7 +14,7 @@ public class MyClient {
         PrintWriter request = new PrintWriter(socket.getOutputStream(), true);  //autoFlush + \n
 
         //2. 클라이언트가 요청함
-        request.println("html 페이지 주세요.");
+        request.println("html");
         //자동 flush, \n 자동 붙임
 
         //3. 클라이언트가 서버의 응답을 받음

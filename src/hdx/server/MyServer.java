@@ -31,11 +31,11 @@ public class MyServer {
         if(msg.equals("html")){
             response.println("<html><h1>Hello</h1></html>");
 
-        }else {
+        }else if(msg.equals("xml")){
             response.println("<xml>");
+        }else{
+            response.println("잘못된 요청을 했습니다.");
         }
-
-
 
         //스캐너의 경우에도 BufferedReader를 이용해 구현되어있음
 
