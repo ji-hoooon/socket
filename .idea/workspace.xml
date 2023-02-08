@@ -2,9 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5287f6b1-47a6-407e-8570-1d0a1342845c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ex02/ThreadEx01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/singleserver/client/MyClient1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/singleserver/client/MyClient2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/singleserver/server/MyServer.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hdx/client/MyClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hdx/client/MyClient.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/hdx/server/MyServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hdx/server/MyServer.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -38,11 +40,16 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/Users/jihoon/Library/CloudStorage/OneDrive-gc.gachon.ac.kr/2022 fastcampus/fast_lab/socket-study/src/singleserver",
     "nodejs_package_manager_path": "npm"
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/singleserver" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="singleserver.client" />
       <recent name="ex01" />
     </key>
   </component>
@@ -54,7 +61,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1675684875385</updated>
-      <workItem from="1675684876626" duration="9488000" />
+      <workItem from="1675684876626" duration="11482000" />
     </task>
     <servers />
   </component>

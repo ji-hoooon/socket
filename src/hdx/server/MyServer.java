@@ -21,7 +21,7 @@ public class MyServer {
         BufferedReader request = new BufferedReader(new InputStreamReader(socket.getInputStream(), "utf-8"));
         //받은 요청을 UTF-8로 인코딩
 
-        String msg = request.readLine();
+        String msg = request.readLine();    //클라가 BW해야 서버가 BR가능
         System.out.println("클라이언트에게서 요청이 왔습니다 : "+msg);
 
         //3. 서버 응답 (반이중) -> BufferedWriter+ new OutputStreamWriter 가 구현되어있는 Wrapper 클래스 PrintWriter
