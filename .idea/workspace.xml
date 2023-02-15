@@ -2,11 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5287f6b1-47a6-407e-8570-1d0a1342845c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/mimeserver/MimeType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mimeserver/client/MyClient1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mimeserver/client/MyClient2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mimeserver/model/Data.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mimeserver/server/MyServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assignment/as0213/JsonParseApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assignment/as0213/ObjectParseApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assignment/as0213/User.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -17,8 +15,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -35,26 +33,26 @@
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "/Users/jihoon/Library/CloudStorage/OneDrive-gc.gachon.ac.kr/2022 fastcampus/fast_lab/socket-study/src/mimeserver",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.0"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/jihoon/Library/CloudStorage/OneDrive-gc.gachon.ac.kr/2022 fastcampus/fast_lab/socket-study/src/assignment/as0213&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/assignment/as0213" />
       <recent name="$PROJECT_DIR$/src/mimeserver" />
       <recent name="$PROJECT_DIR$/lib" />
       <recent name="$PROJECT_DIR$/src/webserver" />
       <recent name="$PROJECT_DIR$/src" />
-      <recent name="$PROJECT_DIR$/src/singleserver" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="singleserver.client" />
@@ -69,7 +67,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1675684875385</updated>
-      <workItem from="1675684876626" duration="16875000" />
+      <workItem from="1675684876626" duration="19425000" />
+      <workItem from="1676340890778" duration="599000" />
     </task>
     <servers />
   </component>
