@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="5287f6b1-47a6-407e-8570-1d0a1342845c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/assignment/as0213/JsonParseApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assignment/as0213/ObjectParseApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assignment/as0213/User.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex03/MemEx01.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,20 +40,20 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/jihoon/Library/CloudStorage/OneDrive-gc.gachon.ac.kr/2022 fastcampus/fast_lab/socket-study/src/assignment/as0213&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/jihoon/Library/CloudStorage/OneDrive-gc.gachon.ac.kr/2022 fastcampus/fast_lab/socket-study&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Libraries&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
   }
 }</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/assignment/as0220" />
       <recent name="$PROJECT_DIR$/src/assignment/as0213" />
       <recent name="$PROJECT_DIR$/src/mimeserver" />
       <recent name="$PROJECT_DIR$/lib" />
       <recent name="$PROJECT_DIR$/src/webserver" />
-      <recent name="$PROJECT_DIR$/src" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="singleserver.client" />
@@ -69,6 +70,14 @@
       <updated>1675684875385</updated>
       <workItem from="1675684876626" duration="19425000" />
       <workItem from="1676340890778" duration="599000" />
+      <workItem from="1676455070755" duration="1389000" />
+      <workItem from="1676462706894" duration="601000" />
+      <workItem from="1676466284632" duration="598000" />
+      <workItem from="1676547011231" duration="4207000" />
+      <workItem from="1676855443647" duration="5066000" />
+      <workItem from="1676861571089" duration="668000" />
+      <workItem from="1678882152721" duration="1206000" />
+      <workItem from="1680585785983" duration="696000" />
     </task>
     <servers />
   </component>
