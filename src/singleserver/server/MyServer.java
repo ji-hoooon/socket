@@ -9,7 +9,7 @@ import java.net.Socket;
 public class MyServer {
     //GET 응답(자원을 주세요)
     public MyServer() throws Exception{
-        //반이중
+        //전이중
 
         //1. 서버 대기중
         ServerSocket serverSocket=new ServerSocket(10000);

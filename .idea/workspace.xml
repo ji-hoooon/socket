@@ -7,6 +7,7 @@
     <list default="true" id="5287f6b1-47a6-407e-8570-1d0a1342845c" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/singleserver/server/MyServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/singleserver/server/MyServer.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,7 +81,7 @@
       <workItem from="1676855443647" duration="5066000" />
       <workItem from="1676861571089" duration="668000" />
       <workItem from="1678882152721" duration="1206000" />
-      <workItem from="1680585785983" duration="1174000" />
+      <workItem from="1680585785983" duration="6280000" />
     </task>
     <servers />
   </component>
